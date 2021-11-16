@@ -1,0 +1,8 @@
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\bin\Debug\netcoreapp2.1\Infraestrutura.deps.json
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\bin\Debug\netcoreapp2.1\Infraestrutura.dll
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\bin\Debug\netcoreapp2.1\Infraestrutura.pdb
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.csproj.CoreCompileInputs.cache
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.AssemblyInfoInputs.cache
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.AssemblyInfo.cs
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.dll
+C:\Users\daniela.souza\source\repos\SistemCadastro\Infraestrutura\obj\Debug\netcoreapp2.1\Infraestrutura.pdb
