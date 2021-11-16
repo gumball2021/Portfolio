@@ -1,0 +1,9 @@
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\bin\Debug\netcoreapp2.1\Compartilhado.deps.json
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\bin\Debug\netcoreapp2.1\Compartilhado.dll
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\bin\Debug\netcoreapp2.1\Compartilhado.pdb
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\obj\Debug\netcoreapp2.1\Compartilhado.csproj.CoreCompileInputs.cache
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\obj\Debug\netcoreapp2.1\Compartilhado.AssemblyInfoInputs.cache
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\obj\Debug\netcoreapp2.1\Compartilhado.AssemblyInfo.cs
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\obj\Debug\netcoreapp2.1\Compartilhado.dll
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\obj\Debug\netcoreapp2.1\Compartilhado.pdb
+C:\Users\daniela.souza\source\repos\SistemCadastro\Compartilhado9\obj\Debug\netcoreapp2.1\Compartilhado.csprojAssemblyReference.cache
